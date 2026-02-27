@@ -8,8 +8,8 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8301752824:AAGfi3h-o3WpDv_IXQT-nNwpUEAtok26_
 
 # Channel and link configuration
 TELEGRAM_CHANNEL = os.getenv("TELEGRAM_CHANNEL", "https://t.me/KINGBET9AUD")
-FREE_SPIN_URL = os.getenv("FREE_SPIN_URL", "https://king9au.net/RFKINGBETBOT")
-FREE_CREDIT_URL = os.getenv("FREE_CREDIT_URL", "https://king9au.net/RFKINGBETBOT")
+FREE_SPIN_URL = os.getenv("FREE_SPIN_URL", "https://ausk9.net/RFKINGBETBOT")
+FREE_CREDIT_URL = os.getenv("FREE_CREDIT_URL", "https://ausk9.net/RFKINGBETBOT")
 
 # Promotional images (local file paths - hardcoded in code)
 FREE_SPIN_IMAGE_PATH = "public/free_spin.jpg"
